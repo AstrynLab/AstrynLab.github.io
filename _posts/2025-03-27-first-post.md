@@ -9,3 +9,10 @@ categories: [随笔]
 这是我的第一篇文章，用GitHub网页端直接编写。
 - 支持**Markdown**语法
 - 支持插入图片、链接等
+
+
+```javascript
+$(document).ready(function () {
+    alert('RUNOOB');
+});
+```
